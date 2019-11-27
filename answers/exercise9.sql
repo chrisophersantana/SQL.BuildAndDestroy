@@ -1,0 +1,1 @@
+SELECT City FROM Users WHERE NOT (Philadelphia);

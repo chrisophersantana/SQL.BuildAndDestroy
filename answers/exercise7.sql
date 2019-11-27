@@ -1,0 +1,1 @@
+DROP Column DATE Birthday;
