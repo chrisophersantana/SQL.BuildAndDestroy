@@ -1,0 +1,1 @@
+UPDATE students SET "Edinburgh" WHERE city = Scotland;

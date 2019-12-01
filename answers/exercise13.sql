@@ -1,0 +1,1 @@
+SELSECT * FROM Students ORDER BY Country ASC AND city ASC;
